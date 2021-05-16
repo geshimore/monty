@@ -106,4 +106,4 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 ---
 
 ## Authors
-* **Derrick Gee** - [geshimore](https://github.com/geshimore)
+* **Peter Ngugi** - [geshimore](https://github.com/geshimore)
